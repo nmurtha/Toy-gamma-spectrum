@@ -3,4 +3,4 @@ Assuming an infinite detector medium, this toy code models photoelectric and Com
 
 This code uses tools from the ROOT toolkit (https://root.cern)
 
-![Spectrum of Cs-137 photons (0.6617 MeV)](Spectra.pdf)
+![Spectrum of Cs-137 photons (0.6617 MeV)](Spectra.png)
